@@ -1,0 +1,13 @@
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.csprojAssemblyReference.cache
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.csproj.CoreCompileInputs.cache
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.AssemblyInfoInputs.cache
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.AssemblyInfo.cs
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\InternalAssessment.exe
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\InternalAssessment.deps.json
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\InternalAssessment.runtimeconfig.json
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\InternalAssessment.runtimeconfig.dev.json
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\InternalAssessment.dll
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\InternalAssessment.pdb
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.dll
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.pdb
+C:\Users\thepo\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InternalAssessment.genruntimeconfig.cache
