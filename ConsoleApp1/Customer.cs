@@ -26,8 +26,10 @@ namespace InternalAssessment
 
             //Use of Linq Query
             var cCity = customer.Where(c => c.City == "Mumbai" && ID <1003);
+
             //where is for Applying Filteron customer List
             var cCustName = customer.Where(c => c.City == "Mumbai").OrderBy(c => c.FirstName);
+
             foreach (var cust in cCustName)
             {
                 //Prints two 
